@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApi Centralized Package Demo", "OpenApi Centralized Package Demo\OpenApi Centralized Package Demo.csproj", "{0219F64B-7846-4F99-8A07-7D061D8DB4C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.OpenAPITools", "aspnetcore-8.0-use-centralized-package-version-management\src\Org.OpenAPITools\Org.OpenAPITools.csproj", "{10F14588-D105-4871-94DE-959614652B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0219F64B-7846-4F99-8A07-7D061D8DB4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0219F64B-7846-4F99-8A07-7D061D8DB4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0219F64B-7846-4F99-8A07-7D061D8DB4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0219F64B-7846-4F99-8A07-7D061D8DB4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F14588-D105-4871-94DE-959614652B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F14588-D105-4871-94DE-959614652B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F14588-D105-4871-94DE-959614652B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F14588-D105-4871-94DE-959614652B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
